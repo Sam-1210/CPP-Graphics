@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1563093372 source:d:\libraries\documents\programming\projects\cpp\business\main.cpp
+	"Include\Headers.h"
+
+1562482115 d:\libraries\documents\programming\projects\cpp\business\source\headers.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+	<string.h>
+
+1562494928 source:d:\libraries\documents\programming\projects\cpp\business\source\box.cpp
+	"Headers.cpp"
+
+1562482115 source:d:\libraries\documents\programming\projects\cpp\business\source\headers.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+	<string.h>
+
+1562494928 d:\libraries\documents\programming\projects\cpp\business\source\box.cpp
+	"Headers.cpp"
+
+1562486162 d:\libraries\documents\programming\projects\cpp\business\source\data.cpp
+
+1562486162 source:d:\libraries\documents\programming\projects\cpp\business\source\data.cpp
+
+1562493912 source:d:\libraries\documents\programming\projects\cpp\business\source\goti.cpp
+	"Headers.cpp"
+
+1562493912 d:\libraries\documents\programming\projects\cpp\business\source\goti.cpp
+	"Headers.cpp"
+
+1562834493 d:\libraries\documents\programming\projects\cpp\business\box.cpp
+	"Headers.cpp"
+
+1562482115 d:\libraries\documents\programming\projects\cpp\business\headers.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+	<string.h>
+
+1562512752 d:\libraries\documents\programming\projects\cpp\business\data.cpp
+
+1562512234 d:\libraries\documents\programming\projects\cpp\business\goti.cpp
+	"Headers.cpp"
+
+1562512752 source:d:\libraries\documents\programming\projects\cpp\business\data.cpp
+
+1562512234 source:d:\libraries\documents\programming\projects\cpp\business\goti.cpp
+	"Headers.cpp"
+
+1562482115 source:d:\libraries\documents\programming\projects\cpp\business\headers.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+	<string.h>
+
+1562834571 source:d:\libraries\documents\programming\projects\cpp\business\box.cpp
+
+1562512035 d:\libraries\documents\programming\projects\cpp\business\main.cpp
+	"Headers.cpp"
+	"Box.cpp"
+	"Data.cpp"
+	"Goti.cpp"
+
+1562997158 d:\libraries\documents\programming\projects\cpp\business\dice.cpp
+	"Headers.cpp"
+
+1562997158 source:d:\libraries\documents\programming\projects\cpp\business\dice.cpp
+	"Headers.cpp"
+
+1563019177 source:c:\users\user\desktop\business\dice.cpp
+	"Headers.cpp"
+
+1563020647 c:\users\user\desktop\business\headers.cpp
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+
+1563020647 source:c:\users\user\desktop\business\headers.cpp
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+
+1563366419 source:c:\users\user\desktop\business\main.cpp
+	"Include\Headers.h"
+
+1563019177 c:\users\user\desktop\business\dice.cpp
+	"Headers.cpp"
+
+1563021858 c:\users\user\desktop\business\property.cpp
+	"Functions.cpp"
+
+1563024486 c:\users\user\desktop\business\player_data.cpp
+	"Headers.cpp"
+
+1563022065 source:c:\users\user\desktop\business\property.cpp
+
+1563024486 source:c:\users\user\desktop\business\player_data.cpp
+	"Headers.cpp"
+
+1563021858 source:c:\users\user\desktop\business\functions.cpp
+	"Player_Data.cpp"
+
+1563021858 c:\users\user\desktop\business\functions.cpp
+	"Player_Data.cpp"
+
+1563024428 c:\users\user\desktop\business\inputscr.cpp
+	"Headers.cpp"
+
+1563024572 source:c:\users\user\desktop\business\inputscr.cpp
+	"Headers.cpp"
+
+1563024923 c:\users\user\desktop\business\inputscr.h
+
+1563026578 c:\users\user\desktop\business\headers.h
+	"Data.h"
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	"Player_Data.h"
+	"OtherDraw.h"
+	"Property.h"
+	"MiscFunc.h"
+	"MainGame.h"
+
+1563026432 c:\users\user\desktop\business\player_data.h
+
+1563026240 c:\users\user\desktop\business\otherdraw.h
+
+1563025783 c:\users\user\desktop\business\data.h
+
+1563025839 c:\users\user\desktop\business\property.h
+
+1563026019 c:\users\user\desktop\business\miscfunc.h
+
+1563026432 c:\users\user\desktop\business\maingame.h
+
+1563366617 c:\users\user\desktop\business\include\headers.h
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	"Data.h"
+	"Player_Data.h"
+	"Property.h"
+	"EndGame.h"
+	"OtherDraw.h"
+	"MiscFunc.h"
+	"MainGame.h"
+
+1563360293 c:\users\user\desktop\business\include\data.h
+
+1563366493 c:\users\user\desktop\business\include\player_data.h
+
+1563101001 c:\users\user\desktop\business\include\otherdraw.h
+
+1563355638 c:\users\user\desktop\business\include\property.h
+
+1563361540 c:\users\user\desktop\business\include\miscfunc.h
+
+1563365715 c:\users\user\desktop\business\include\maingame.h
+
+1563093002 d:\libraries\documents\programming\projects\cpp\business\include\headers.h
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	"Data.h"
+	"Player_Data.h"
+	"OtherDraw.h"
+	"Property.h"
+	"MiscFunc.h"
+	"MainGame.h"
+
+1563095057 d:\libraries\documents\programming\projects\cpp\business\include\data.h
+
+1563084960 d:\libraries\documents\programming\projects\cpp\business\include\player_data.h
+
+1563026240 d:\libraries\documents\programming\projects\cpp\business\include\otherdraw.h
+
+1563096614 d:\libraries\documents\programming\projects\cpp\business\include\property.h
+
+1563096614 d:\libraries\documents\programming\projects\cpp\business\include\miscfunc.h
+
+1563095495 d:\libraries\documents\programming\projects\cpp\business\include\maingame.h
+
+1563365315 c:\users\user\desktop\business\include\endgame.h
+
+1563374084 source:c:\users\user\desktop\business backup\businesssemifinal2\business\main.cpp
+	"Include\Headers.h"
+
+1563372509 c:\users\user\desktop\business backup\businesssemifinal2\business\include\headers.h
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	"Data.h"
+	"Player_Data.h"
+	"Property.h"
+	"EndGame.h"
+	"OtherDraw.h"
+	"MiscFunc.h"
+	"MainGame.h"
+
+1563374394 c:\users\user\desktop\business backup\businesssemifinal2\business\include\data.h
+
+1563366493 c:\users\user\desktop\business backup\businesssemifinal2\business\include\player_data.h
+
+1563355638 c:\users\user\desktop\business backup\businesssemifinal2\business\include\property.h
+
+1563365315 c:\users\user\desktop\business backup\businesssemifinal2\business\include\endgame.h
+
+1563101001 c:\users\user\desktop\business backup\businesssemifinal2\business\include\otherdraw.h
+
+1563361540 c:\users\user\desktop\business backup\businesssemifinal2\business\include\miscfunc.h
+
+1563365715 c:\users\user\desktop\business backup\businesssemifinal2\business\include\maingame.h
+
+1563706593 source:c:\users\user\desktop\business\business\main.cpp
+	"Include\Headers.h"
+
+1563372509 c:\users\user\desktop\business\business\include\headers.h
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	"Data.h"
+	"Player_Data.h"
+	"Property.h"
+	"EndGame.h"
+	"OtherDraw.h"
+	"MiscFunc.h"
+	"MainGame.h"
+
+1563638221 c:\users\user\desktop\business\business\include\data.h
+
+1563366493 c:\users\user\desktop\business\business\include\player_data.h
+
+1563638175 c:\users\user\desktop\business\business\include\property.h
+
+1563708057 c:\users\user\desktop\business\business\include\endgame.h
+
+1563639317 c:\users\user\desktop\business\business\include\otherdraw.h
+
+1563529627 c:\users\user\desktop\business\business\include\miscfunc.h
+
+1563638175 c:\users\user\desktop\business\business\include\maingame.h
+

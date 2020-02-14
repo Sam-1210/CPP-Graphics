@@ -1,0 +1,25 @@
+char PropName[28][20]={"START","SHIP","MAXICO","CHINA","TANK","CHANCE","EGYPT","AUCTION","BRAZIL","RUSSIA","AIRPLANE","PAKISTAN","ITALY","JAPAN","CASINO","U.S.A.","MALAYSIA","CHANCE","METRO","U.K.","FRANCE","JAIL","KOREA","BMW","ICELAND","CHEST","INDIA","SPAIN"};
+int PropRate[28]={0,550,500,400,500,0,600,0,400,350,1100,300,300,500,0,700,250,0,900,600,500,0,500,600,550,0,800,500};
+int PropColor[28]={5,15,12,9,15,8,14,5,10,9,15,12,14,10,5,9,10,8,15,12,14,8,10,15,9,8,12,14};
+int list1[15],list2[15],p1top=0,p2top=0;
+struct Flags{
+    int x,y;
+};
+POINT pnt;
+void init_Grid();
+void userInput(char[],int*,int*,int*,int,bool);
+void versusWindow();
+void drawGame();
+void ActualDice();
+void DrawHold();
+void askToProp(int);
+void casino();
+void modbal(int,int);
+int PlayerSwitch(int,char);
+void atpclean();
+void Shift(int*,int,int);
+void ReturnButton();
+void Remove_RB();
+bool ColorComplete(int pno,int color);
+bool BankEmpty();
+void Decide_Winner();
